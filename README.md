@@ -51,7 +51,7 @@
 ## 🚀 Em constante evolução  
 
 📌 Atualmente focado em:  
-- **Java && Javascript **  
+- **Java && Javascript**  
 
 📈 Evoluindo em:  
 - **Back-end**  
