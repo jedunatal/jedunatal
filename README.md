@@ -1,9 +1,8 @@
 # 👋🏽 Olá, me chamo Jorge Eduardo  
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** – Anhanguera  
-💻 Em formação **Full Stack Java** pelo Senac-RJ
-🚀 Em busca de **estágio na área de Desenvolvimento Full Stack**  
-⚡ Focado em: **Java | Backend | APIs | Banco de Dados | Cloud**  
+💻 Estagiário na Agetransp - Agência Reguladora de Serviços Públicos Concedidos de Transportes Aquaviários, Ferroviários, Metroviários e de Rodovias do Estado do Rio de Janeiro.
+⚡ **Tecnologia da Informação**  
 
 ---
 
