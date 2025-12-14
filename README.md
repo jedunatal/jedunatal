@@ -1,8 +1,8 @@
-# 👋🏽 Olá, me chamo Jorge Eduardo  
+# 👋🏽 Hi, my name is Jorge Eduardo  
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** – Anhanguera  
-💻 Estagiário na Agetransp - Agência Reguladora de Serviços Públicos Concedidos de Transportes Aquaviários, Ferroviários, Metroviários e de Rodovias do Estado do Rio de Janeiro.
-⚡ **Tecnologia da Informação**  
+🎓 **Systems Analysis and Development** student – Anhanguera  
+💻 **IT Intern at Agetransp** – Regulatory Agency for Conceded Public Transportation Services (Waterway, Railway, Metro, and Highway) of the State of Rio de Janeiro  
+⚡ **Information Technology**
 
 ---
 
@@ -11,46 +11,25 @@
 
 <div align="center">
 
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-2F74C0?style=for-the-badge&logo=typescript&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 
 </div>  
 
 ---
 
-
-## 📈 Estatísticas do GitHub  
-
-<div align="center">
-
-  <a href="https://github.com/jedunatal">
-    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=jedunatal&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jedunatal&theme=radical"/>
-  </a>
-
-  <a href="https://github.com/JorgeEduardo">
-    <img width="97%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jedunatal&layout=compact&langs_count=8&theme=radical"/>
-  </a>
-
-</div>
-
-
----
-
-
 ## 🚀 Em constante evolução  
 
 📌 Atualmente focado em:  
-- **Java && Javascript**  
+- **PHP && Laravel**  
 
 📈 Evoluindo em:  
 - **Back-end**  
