@@ -43,7 +43,8 @@
 
 ---
 
-## 🌐 Onde me encontrar  
+## 🌐 Where to find me
+
 
 - 📧 Email: **jedunatal@gmail.com**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/jorge-eduardo-95408018b/)  
