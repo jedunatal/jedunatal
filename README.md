@@ -26,19 +26,20 @@
 
 ---
 
-## 🚀 Em constante evolução  
+## 🚀 Constantly Evolving  
 
-📌 Atualmente focado em:  
-- **PHP && Laravel**  
+📌 Currently focused on:  
+- **PHP & Laravel**  
 
-📈 Evoluindo em:  
-- **Back-end**  
-- **Boas práticas de Front-end**  
+📈 Growing in:  
+- **Back-end Development**  
+- **Front-end Best Practices**  
 
-🌍 Explorando em breve:  
+🌍 Exploring soon:  
 - **Cloud Computing**  
-- **DevOps e automação**
-- **Criação de app mobile**
+- **DevOps & Automation**  
+- **Mobile App Development**
+
 
 ---
 
