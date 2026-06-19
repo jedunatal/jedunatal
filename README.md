@@ -8,13 +8,6 @@
 
 ---
 
-"Technology is not just about code.
-It's about solving real problems."
-
-</div>
-
----
-
 ## 🛠️ Habilidades & Tecnologias  
 
 <div align="center">
