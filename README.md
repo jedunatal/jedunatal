@@ -1,11 +1,19 @@
-# 👋🏽 Hi, my name is Jorge Eduardo  
+<div align="center">
 
-🎓 **Systems Analysis and Development** student – Anhanguera  
-💻 **IT Intern at Agetransp** – Regulatory Agency for Conceded Public Transportation Services (Waterway, Railway, Metro, and Highway) of the State of Rio de Janeiro  
-⚡ **Information Technology**
+# 👋 Olá, eu sou Jorge Eduardo!
+
+### 💻 PHP/Laravel Developer
+### 🚇 IT Intern @ AGETRANSP
+### 🎓 Systems Analysis and Development Student
 
 ---
 
+"Technology is not just about code.
+It's about solving real problems."
+
+</div>
+
+---
 
 ## 🛠️ Habilidades & Tecnologias  
 
@@ -24,29 +32,189 @@
 
 </div>  
 
----
-
-## 🚀 Constantly Evolving  
-
-📌 Currently focused on:  
-- **PHP & Laravel**  
-
-📈 Growing in:  
-- **Back-end Development**  
-- **Front-end Best Practices**  
-
-🌍 Exploring soon:  
-- **Cloud Computing**  
-- **DevOps & Automation**  
-- **Mobile App Development**
-
 
 ---
 
-## 🌐 Where to find me
+# 👨‍💻 Sobre mim
 
+Sou estudante de Análise e Desenvolvimento de Sistemas e atualmente atuo como Estagiário de Desenvolvimento na AGETRANSP.
 
-- 📧 Email: **jedunatal@gmail.com**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/jorge-eduardo-95408018b/)  
+Tenho experiência prática no desenvolvimento e manutenção de sistemas internos utilizando PHP e Laravel, além de atuar com infraestrutura Linux, Docker e bancos de dados.
+
+Estou sempre buscando aprender novas tecnologias e desenvolver soluções eficientes e escaláveis.
 
 ---
+
+# 🚀 Atualmente
+
+🔨 Trabalhando em:
+
+• Sistemas internos corporativos
+
+• Desenvolvimento PHP/Laravel
+
+• Manutenção e evolução de aplicações
+
+• Infraestrutura Linux e Docker
+
+📚 Estudando:
+
+• Arquitetura de Software
+
+• APIs REST
+
+• DevOps
+
+• Cloud Computing
+
+---
+
+# 🛠 Stack
+
+## Backend
+
+🐘 PHP
+
+❤️ Laravel
+
+☕ Java
+
+🌱 Spring
+
+---
+
+## Frontend
+
+⚡ JavaScript
+
+🔷 TypeScript
+
+🟢 Vue.js
+
+🔴 Angular
+
+---
+
+## Banco de Dados
+
+🐬 MySQL
+
+🐘 PostgreSQL
+
+---
+
+## DevOps
+
+🐳 Docker
+
+🐧 Linux
+
+🔧 Git
+
+☁ Cloud
+
+---
+
+# 💼 Experiência
+
+## 🚇 AGETRANSP
+
+Estagiário de Desenvolvimento
+
+• Desenvolvimento de sistemas internos;
+
+• PHP e Laravel;
+
+• Docker;
+
+• Linux;
+
+• Banco de dados;
+
+• Documentação técnica;
+
+• Versionamento Git.
+
+---
+
+# 🚀 Projetos
+
+## Insurance Platform
+
+Sistema para gestão de seguros.
+
+Laravel
+
+Docker
+
+PostgreSQL
+
+---
+
+## Organiza+
+
+Sistema para produtividade pessoal.
+
+Laravel
+
+Livewire
+
+Filament
+
+---
+
+## Estudos Laravel
+
+Coleção de desafios e projetos.
+
+---
+
+# 📈 GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jedunatal&show_icons=true&theme=github_dark"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jedunatal&layout=compact&theme=github_dark"/>
+
+</div>
+
+---
+
+# 🎯 Objetivos
+
+✅ Evoluir como Desenvolvedor PHP
+
+✅ Aprimorar conhecimentos em Laravel
+
+✅ Estudar DevOps
+
+✅ Aprender Cloud
+
+✅ Desenvolver projetos Open Source
+
+---
+
+# 📫 Contato
+
+📧 Email: seuemail
+
+💼 LinkedIn:
+
+https://linkedin.com/in/jorge-eduardo-95408018b
+
+🐙 GitHub:
+
+https://github.com/jedunatal
+
+📍 Rio de Janeiro - Brasil
+
+---
+
+<div align="center">
+
+## 🚀 Always Learning. Always Building.
+
+⭐ Obrigado pela visita ao meu perfil!
+
+</div>
